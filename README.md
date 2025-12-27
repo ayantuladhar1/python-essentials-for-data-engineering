@@ -1,6 +1,4 @@
-Python Fundamentals for Data Engineering
-This module contains the following contents:
-* Introduction
+Python Basic Fundamentals
 * Python Fundamentals
 * Python Variables
 * Python String Formatting
