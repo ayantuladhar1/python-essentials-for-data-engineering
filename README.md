@@ -1,4 +1,4 @@
-Python Basic Fundamentals
+Python Essentials for DE
 * Python Fundamentals
 * Python Variables
 * Python String Formatting
